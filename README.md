@@ -6,11 +6,10 @@
 -   `tests` - тесты
 -   `scripts` - тут будет деплой
 
-### билд
+## билд
 
-`npx blueprint build` or `yarn blueprint build`
+npx blueprint build
+## тест
 
-### тест
 
-`npx blueprint test` or `yarn blueprint test`
 
